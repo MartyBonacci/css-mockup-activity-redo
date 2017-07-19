@@ -98,7 +98,7 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
 
-section:first-of-type{
+section:nth-last-of-type(2){
 	background-color: #D3D3D3;
 	height:auto;
 	padding-left: 50px;
