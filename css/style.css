@@ -108,10 +108,6 @@ body { width: 100%;}
 ******************************************************/
 
 
-section:nth-last-of-type(2) > h2 {
-	color: #ff8b00;
-}
-
 
 section:nth-last-of-type(2){
 	background-color: #D3D3D3;
@@ -128,3 +124,7 @@ section:nth-last-of-type(2) span {
 	font-style: italic;
 }
 
+
+h2:nth-last-of-type(3) {
+	color: #ff8b00;
+}
