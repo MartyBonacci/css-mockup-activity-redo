@@ -17,13 +17,14 @@ html, body {
 	margin-right: 50px;
 }
 
-
+h1{
+	display: inline;
+}
 
 header{
 	background-color: #ff8b00;
 	color: white;
 	height: 100px;
-	display: block;
 }
 
 .clearfix {
