@@ -124,7 +124,12 @@ section:nth-last-of-type(2) span {
 	font-style: italic;
 }
 
-
+/*
 section>div>h2{
+	color: #ff8b00;
+}
+*/
+
+section:nth-last-of-type(3) h2{
 	color: #ff8b00;
 }
