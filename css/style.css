@@ -110,3 +110,12 @@ section:nth-last-of-type(2){
 	color: #514F52;
 }
 
+section:nth-last-of-type(2) span {
+	font-weight: bold;
+	color: black;
+	font-style: italic;
+}
+
+section:nth-last-of-type(3) h2{
+	color: #ff8b00;
+}
