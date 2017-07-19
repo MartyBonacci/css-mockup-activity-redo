@@ -143,6 +143,7 @@ table {
 	border-collapse: collapse;
 	border: 3px;
 	margin-bottom: 5em;
+	text-align: left;
 	/*
 	table-layout: fixed;
 
