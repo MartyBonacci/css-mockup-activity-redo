@@ -135,6 +135,28 @@ section:nth-child(3) h2 {
 	float: right;
 }
 
-table{
-display: inline;
+table {
+	width: 100%;
+	/*
+	table-layout: fixed;
+
+	border-collapse: collapse;
+	border: 3px solid purple;
+*/
+}
+
+thead th:nth-child(1) {
+	width: 25%;
+}
+
+thead th:nth-child(2) {
+	width: 30%;
+}
+
+thead th:nth-child(3) {
+	width: 45%;
+}
+
+th, td {
+	padding: 20px;
 }
