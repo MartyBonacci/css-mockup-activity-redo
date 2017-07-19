@@ -12,6 +12,14 @@ html, body {
 .container {
 	margin: 0 auto;
 	padding: 0 2rem;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+html, header{
+	background-color: #ff8b00;
+	color: white;
+	padding-left: 50px;
 }
 
 .clearfix {
