@@ -17,7 +17,7 @@ html, body {
 }
 
 html, header{
-	background-color: #ff8b00;
+	background: #ff8b00;
 	color: white;
 	padding-left: 50px;
 }
