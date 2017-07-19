@@ -40,6 +40,11 @@ header{
 	color: #ff8b00;
 }
 
+.instructions img{
+	color: #D2D2D2;
+	border-width: thick;
+	border: solid;
+}
 
 .pull-left{
 	float: left;
@@ -95,6 +100,7 @@ body { width: 100%;}
 
 section{
 	background-color: #D3D3D3;
+	height:auto;
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-top: 75px;
