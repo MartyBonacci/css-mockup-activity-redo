@@ -101,10 +101,8 @@ body { width: 100%;}
 section:nth-last-of-type(2){
 	background-color: #D3D3D3;
 	height:auto;
-	padding-left: 50px;
-	padding-right: 50px;
-	padding-top: 75px;
-	padding-bottom: 75px;
+	padding-top: 65px;
+	padding-bottom: 65px;
 	color: #514F52;
 }
 
