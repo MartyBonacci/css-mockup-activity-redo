@@ -130,7 +130,7 @@ section>div>h2{
 }
 */
 
-main:nth-child(3) h2 {
+section:nth-child(3) h2 {
 	color: #ff8b00;
 	float: right;
 }
