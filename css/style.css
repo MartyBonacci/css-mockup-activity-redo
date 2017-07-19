@@ -139,10 +139,9 @@ table {
 	width: 100%;
 	background-color: #ff8b00;
 	color: white;
+	border-collapse: collapse;
 	/*
 	table-layout: fixed;
-
-	border-collapse: collapse;
 	border: 3px solid purple;
 */
 }
