@@ -152,18 +152,26 @@ table {
 
 thead th:nth-child(1) {
 	width: 25%;
+	border-collapse: collapse;
+	border: 3px solid white;
 }
 
 thead th:nth-child(2) {
 	width: 30%;
+	border-collapse: collapse;
+	border: 3px solid white;
 }
 
 thead th:nth-child(3) {
 	width: 45%;
+	border-collapse: collapse;
+	border: 3px solid white;
 }
 
 th, td {
 	padding: 20px;
+	border-collapse: collapse;
+	border: 3px solid white;
 }
 
 footer{
