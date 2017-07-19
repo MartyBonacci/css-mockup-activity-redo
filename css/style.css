@@ -45,6 +45,7 @@ header{
 	border-width: thick;
 	border: solid;
 	width: 16em;
+	padding-right: 0;
 }
 
 .pull-left{
@@ -60,6 +61,7 @@ img{
 	color: #FEFFFF;
 	border-width: thick;
 	border: solid;
+	padding-right: 2em;
 }
 
 .clearfix {
