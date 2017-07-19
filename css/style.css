@@ -133,6 +133,7 @@ section>div>h2{
 section:nth-child(3) h2 {
 	color: #ff8b00;
 	float: right;
+	margin-top: 5em;
 }
 
 table {
@@ -141,7 +142,7 @@ table {
 	color: white;
 	border-collapse: collapse;
 	border: 3px;
-margin-bottom: 2em;
+	margin-bottom: 5em;
 	/*
 	table-layout: fixed;
 
