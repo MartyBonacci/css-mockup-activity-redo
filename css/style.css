@@ -141,6 +141,7 @@ table {
 	color: white;
 	border-collapse: collapse;
 	border: 3px;
+margin-bottom: 2em;
 	/*
 	table-layout: fixed;
 
@@ -166,4 +167,6 @@ th, td {
 footer{
 	background-color: #000000;
 	color: #7F8A84;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
