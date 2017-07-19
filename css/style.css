@@ -108,7 +108,7 @@ body { width: 100%;}
 ******************************************************/
 
 
-section:nth-last-of-type(3) > h2 {
+section:nth-last-of-type(2) > h2 {
 	color: #ff8b00;
 }
 
