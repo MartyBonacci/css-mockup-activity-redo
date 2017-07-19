@@ -33,8 +33,7 @@ header{
 
 .instructions{
 	border: solid #ff8b00 3px;
-	margin-left: 50px;
-	margin-right: 50px;
+
 	margin-top: 75px;
 	margin-bottom: 75px;
 	padding: 25px;
@@ -93,3 +92,12 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+
+section{
+	background-color: #D3D3D3;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 75px;
+	padding-bottom: 75px;
+	color: #514F52;
+}
