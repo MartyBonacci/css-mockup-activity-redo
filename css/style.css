@@ -57,6 +57,9 @@ header{
 
 img{
 	width: 20em;
+	color: #FEFFFF;
+	border-width: thick;
+	border: solid;
 }
 
 .clearfix {
