@@ -141,7 +141,7 @@ table {
 	background-color: #ff8b00;
 	color: white;
 	border-collapse: collapse;
-	border: 3px;
+	border: 3px solid white;
 	margin-bottom: 5em;
 	text-align: left;
 	/*
@@ -152,17 +152,14 @@ table {
 
 thead th:nth-child(1) {
 	width: 25%;
-	text-align: left;
 }
 
 thead th:nth-child(2) {
 	width: 30%;
-	text-align: left;
 }
 
 thead th:nth-child(3) {
 	width: 45%;
-	text-align: left;
 }
 
 th, td {
