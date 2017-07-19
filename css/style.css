@@ -133,7 +133,7 @@ section>div>h2{
 section:nth-child(3) h2 {
 	color: #ff8b00;
 	float: right;
-	margin-top: 5em;
+	margin-top: 3em;
 }
 
 table {
@@ -151,14 +151,17 @@ table {
 
 thead th:nth-child(1) {
 	width: 25%;
+	text-align: left;
 }
 
 thead th:nth-child(2) {
 	width: 30%;
+	text-align: left;
 }
 
 thead th:nth-child(3) {
 	width: 45%;
+	text-align: left;
 }
 
 th, td {
