@@ -16,7 +16,7 @@ html, body {
 	margin-right: 50px;
 }
 
-html, header{
+#header{
 	background: #ff8b00;
 	color: white;
 	padding-left: 50px;
