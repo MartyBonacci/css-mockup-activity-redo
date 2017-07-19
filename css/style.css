@@ -137,6 +137,8 @@ section:nth-child(3) h2 {
 
 table {
 	width: 100%;
+	background-color: #ff8b00;
+	color: white;
 	/*
 	table-layout: fixed;
 
