@@ -162,3 +162,8 @@ thead th:nth-child(3) {
 th, td {
 	padding: 20px;
 }
+
+footer{
+	background-color: #000000;
+	color: #7F8A84;
+}
