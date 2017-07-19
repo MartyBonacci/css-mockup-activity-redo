@@ -23,7 +23,7 @@ header{
 	background-color: #ff8b00;
 	color: white;
 	height: 100px;
-	display: inline;
+	display: block;
 }
 
 .clearfix {
