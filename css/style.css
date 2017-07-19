@@ -25,7 +25,9 @@ h1{
 header{
 	background-color: #ff8b00;
 	color: white;
-	height: 100px;
+	height: auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .clearfix {
