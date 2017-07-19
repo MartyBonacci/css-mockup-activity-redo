@@ -102,6 +102,10 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
 
+h2{
+	color: #ff8b00;
+}
+
 section:nth-last-of-type(2){
 	background-color: #D3D3D3;
 	height:auto;
@@ -116,6 +120,3 @@ section:nth-last-of-type(2) span {
 	font-style: italic;
 }
 
-h2{
-	color: #ff8b00;
-}
