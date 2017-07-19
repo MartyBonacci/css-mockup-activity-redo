@@ -38,6 +38,9 @@ header{
 	margin-bottom: 75px;
 	padding: 25px;
 	color: #ff8b00;
+	font-size: .82em;
+	font-weight: bold;
+	line-height: 1.5;
 }
 
 .instructions img{
@@ -61,7 +64,7 @@ img{
 	color: #FEFFFF;
 	border-width: thick;
 	border: solid;
-	margin-right: 2em;
+	margin-right: 4em;
 }
 
 .clearfix {
