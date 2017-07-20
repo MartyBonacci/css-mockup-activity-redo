@@ -5,8 +5,13 @@
 * Some rules have been included here to give you a head start.
 * Create your own custom CSS rules below. Have fun!
 ******************************************************/
+
+
+/*****************************************************
+* Global Styles
+******************************************************/
 html, body {
-	margin: 0;
+	margin: 0; /* Zero Out Margins to Start with a Clean Slate */
 	font-family: "Open Sans",arial,sans-serif;
 }
 
@@ -17,6 +22,17 @@ html, body {
 	margin-right: 50px;
 }
 
+.pull-left{
+	float: left;
+}
+
+.pull-right{
+	float: right;
+}
+
+/*****************************************************
+* Header Styles
+******************************************************/
 header h1{
 	display: inline;
 	font-size: 3.75em;
@@ -31,6 +47,9 @@ header{
 	padding-bottom: 30px;
 }
 
+/*****************************************************
+* Instruction Section Styles
+******************************************************/
 .instructions{
 	border: solid #ff8b00 3px;
 
@@ -49,14 +68,6 @@ header{
 	border: solid;
 	width: 16em;
 	margin-right: 0;
-}
-
-.pull-left{
-	float: left;
-}
-
-.pull-right{
-	float: right;
 }
 
 img{
@@ -108,7 +119,9 @@ body { width: 100%;}
 ******************************************************/
 
 
-
+/*****************************************************
+* Stunning Section Styles
+******************************************************/
 section:nth-last-of-type(2){
 	background-color: #D3D3D3;
 	height:auto;
@@ -118,17 +131,18 @@ section:nth-last-of-type(2){
 	line-height: 1.5;
 }
 
+/*****************************************************
+* Stunning Bold Text Styling
+******************************************************/
 section:nth-last-of-type(2) span {
 	font-weight: bold;
 	color: black;
 	font-style: italic;
 }
 
-/*
-section>div>h2{
-	color: #ff8b00;
-}
-*/
+/*****************************************************
+* Table Styles
+******************************************************/
 
 section:nth-child(3) h2 {
 	color: #ff8b00;
@@ -144,10 +158,6 @@ table {
 	border: 3px solid white;
 	margin-bottom: 5em;
 	text-align: left;
-	/*
-	table-layout: fixed;
-
-*/
 }
 
 thead th:nth-child(1) {
@@ -174,6 +184,9 @@ th, td {
 	border: 3px solid white;
 }
 
+/*****************************************************
+* Footer Styles
+******************************************************/
 footer{
 	background-color: #000000;
 	color: #7F8A84;
